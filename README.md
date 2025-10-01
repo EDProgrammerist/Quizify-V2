@@ -1,1 +1,4 @@
-QuizifyV2
+# Quizify V2
+
+![preview img](/Preview.png)
+
